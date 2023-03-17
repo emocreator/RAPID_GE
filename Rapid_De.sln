@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33424.131
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Sandbox", "Sandbox\Sandbox.vcxproj", "{739D05A8-93E6-40A7-976D-E9C31AE20BDE}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Rapid_De", "Rapid_De\Rapid_De.vcxproj", "{3E926404-914D-463D-BAA9-CE61454E001C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3E926404-914D-463D-BAA9-CE61454E001C}.Debug|x64.ActiveCfg = Debug|x64
+		{3E926404-914D-463D-BAA9-CE61454E001C}.Debug|x64.Build.0 = Debug|x64
+		{3E926404-914D-463D-BAA9-CE61454E001C}.Release|x64.ActiveCfg = Release|x64
+		{3E926404-914D-463D-BAA9-CE61454E001C}.Release|x64.Build.0 = Release|x64
+		{739D05A8-93E6-40A7-976D-E9C31AE20BDE}.Debug|x64.ActiveCfg = Debug|x64
+		{739D05A8-93E6-40A7-976D-E9C31AE20BDE}.Debug|x64.Build.0 = Debug|x64
+		{739D05A8-93E6-40A7-976D-E9C31AE20BDE}.Release|x64.ActiveCfg = Release|x64
+		{739D05A8-93E6-40A7-976D-E9C31AE20BDE}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {990071B5-5FB0-49BA-8CAC-982CA13D4F87}
+	EndGlobalSection
+EndGlobal
